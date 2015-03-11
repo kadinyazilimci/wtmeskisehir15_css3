@@ -1,4 +1,4 @@
-# wtmeskisehir15_css3
+# WTMEskişehir 2015 Css Animation and Transition
 
 CSS3 Animasyon atölyesi için materyaller. 
 
