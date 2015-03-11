@@ -2,8 +2,8 @@
 
 CSS3 Animasyon atölyesi için materyaller. 
 
-Slide Link;
+<h2>Slide Link;</h2>
 http://slides.com/nesrinkalender/gdgeskisehir/live
 
-Örnekler;
+<h2>Örnekler;</h2>
 http://jsfiddle.net/user/nesrinkalender/fiddles/
